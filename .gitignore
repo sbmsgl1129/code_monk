@@ -1,0 +1,3 @@
+#Ignoring all executables
+#Ref: https://www.atlassian.com/git/tutorials/saving-changes/gitignore
+**/bin
