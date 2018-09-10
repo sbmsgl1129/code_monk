@@ -1,0 +1,29 @@
+So in this module, I learned couple of things, which I wish to summarize:
+  1. I learned the Sieve algorithm to find the list of Prime numbers upto N.
+     This algorithm is faster than any other algo - pls dont ask the complexity.
+     I dont know but I saw some papers which derives it.
+
+     Obviously the naive method was to check for each num whether prime or not in
+     O(sqrt(n)). So the total will be O(n*sqrt(n)). There we are repeating the stuff 
+     from starting (2) to its square-root to find any factors. This unnecessary repition
+     is avoided by Sieve method.
+
+  2. In Seating arrangement problem, I learned that we could make our life easy by declaring/defining
+     some vars (which may seem like hard-coding), but basically help us in getting the seats faster.
+
+  3. In Find Product problem, I learned about modular arithmetic a little bit. I know that in CP,
+     they ask us to use (10^9 + 7), beacuse it is a prime number. But dont know why prime number is
+     required. "This is something I should learn about". 
+  
+  4. In count_divisors problems, I also came to same solution as in Editorial, but in a different way.
+     And also with editorial, I understood the meaning of the solution and a technique to solve problems
+     which are translated - like in the problem we have to start from l, instead of 0.
+
+  5. In Play with Numbers - I learned how we can use extra space for time. Never thought like that.
+
+  6. In Cipher - I am happy that I came to solution my self. All it required was some basic translation
+     of modulo back to '0'. Then the concept became easier. Unfortunately there was no editorial, so I 
+     dont know how it can be done otherwise.
+
+  7. In Minimize Cost, I came up with the solution myself and I think it is good though I am not sure of
+     its Complexity. Editorial was more or less same.
