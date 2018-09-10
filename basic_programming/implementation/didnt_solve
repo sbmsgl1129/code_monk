@@ -1,0 +1,17 @@
+As there are over 200 problems in Implementation module, I wont solve all.
+But for those problems, I will write an explantion what is the correct answer.
+Lets do that, shall we?
+
+1. Array Insert - It is the same type of problem we solved before but with a little twist.
+                  To get the sum, we should maintain the sum array.
+                  Also for an update operation we have to update the sum_array from that point
+                  to last -  we can use std::for_each or normal for-loop would be fine too!
+2. The Great Kian - There is nothing - just one iteration - do %3 for index and add it to correct
+                    sum value
+3. Array sum - just use unsigned long long
+4. Print Hackerearth - just use the map and some divison operation
+5. Little Jhool and psychic powers  - Just iterating and mainitaining the counter
+6. Hawkeye and FloodFill - at each level we have to just use the condition to print the power
+                           condition - (i-k || i+k) && (j-k || j+k)
+7. Magical Parse -  Simple Parsing and having some init value and symbol would work beautifully.
+8. 
