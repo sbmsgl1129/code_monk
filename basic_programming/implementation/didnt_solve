@@ -14,4 +14,9 @@ Lets do that, shall we?
 6. Hawkeye and FloodFill - at each level we have to just use the condition to print the power
                            condition - (i-k || i+k) && (j-k || j+k)
 7. Magical Parse -  Simple Parsing and having some init value and symbol would work beautifully.
-8. 
+8. Find The Pattern - sum of (min + max) in the series
+9. ques 2 - no need for explanation I guess
+10. digit_problem - change starting digits to '9'. use strings
+11. count_numbers - simple string parsing
+12. Min-max - simple two pass soln. Not sure can we do it in one pass?
+13. Complete the Syllabus - basic modulo check and then one pass over the array
