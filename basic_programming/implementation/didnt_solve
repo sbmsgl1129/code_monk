@@ -33,4 +33,11 @@ Lets do that, shall we?
 24. Bob The Builder - Simple Hashing
 25. The Psychic Type - Its a simple pass with maintaing what already traversed.
 26. Diwali celebration - simple multiplication
-27. 
+27. Easy Multiple - Without using extra space easy. With some extra space -  so gimmicks we can do to reduce 
+    complexity for multiple queries
+28. Sherlock and Date -  if handle some edge cases -  everything will work fine
+29. Trilogy - 2 equations - 2 variables to solve
+30. Digit - Simple Problem
+31. Easy Task - Simple problem
+32. Coin Game - simple analysis of odd/even when doing half, we could find it!
+33. The Prime Cells - O(n^2) is trivial - not sure if there is any more simple solution
