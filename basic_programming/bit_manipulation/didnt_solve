@@ -1,0 +1,14 @@
+1. MYSTERY - num of 1's in their binary representation
+2. Subham and Binary Strings - no of 0's - i would just go over string and do the count. Not sure what is
+                                           editorial of it. maybe take input in binary form and count num 0's
+3. Monk and the box of cookies - for all integers find which poitions bit is set. Increment that count in
+                                 an array which keeps a counter. The index with the highest counter wins
+4. The Castle Gate - simple O(n^2) XOR's and check. There may be more interesting solution but I am not
+                     interested in it.
+5. Jarvis and Lone Integer - Classic XOR
+6. Subset AND - if at the positions of 1 in Z, if we have zeros in the array, then our work is done 
+7. Rajan and Odd frequency number  - Simple XOR
+8. lazy hash - number of 1's set
+9. Special Bit Numbers - Simple parse and pre-processing will help
+10. Micro and Binary Strings - Count no of ones
+11. 
